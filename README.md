@@ -2,6 +2,7 @@
 Tính tổng mảng từ 1..n, theo phương pháp chia để trị ĐỆ QUI
 
 VIDEO DEMO https://drive.google.com/file/d/1RuateY-c-d_Dy55CeR5W5S41WbdTDXrJ/view?usp=sharing
+
 Tính tổng mảng từ 1..n, theo phương pháp chia để trị KHÔNG ĐỆ QUI
 
 VIDEO DEMO https://drive.google.com/file/d/1EEcfukFia5a1oRLQivfN8p0MmkkkU-D7/view?usp=sharing
