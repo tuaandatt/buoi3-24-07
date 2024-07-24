@@ -1,0 +1,14 @@
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\bin\Debug\net8.0\2033212004_lamtuandat_buoi3.exe
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\bin\Debug\net8.0\2033212004_lamtuandat_buoi3.deps.json
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\bin\Debug\net8.0\2033212004_lamtuandat_buoi3.runtimeconfig.json
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\bin\Debug\net8.0\2033212004_lamtuandat_buoi3.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\bin\Debug\net8.0\2033212004_lamtuandat_buoi3.pdb
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.AssemblyInfoInputs.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.AssemblyInfo.cs
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.csproj.CoreCompileInputs.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\refint\2033212004_lamtuandat_buoi3.dll
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.pdb
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\2033212004_lamtuandat_buoi3.genruntimeconfig.cache
+C:\Users\lamtu\source\repos\2033212004_lamtuandat_buoi3\2033212004_lamtuandat_buoi3\obj\Debug\net8.0\ref\2033212004_lamtuandat_buoi3.dll
