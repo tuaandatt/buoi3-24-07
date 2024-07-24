@@ -14,7 +14,8 @@ VIDEO DEMO https://drive.google.com/file/d/1EEcfukFia5a1oRLQivfN8p0MmkkkU-D7/vie
 VIDEO DEMO https://drive.google.com/file/d/10W_uRNK7nDdYEc1NU5M6qo0hSbAmaH_A/view?usp=sharing
 
 Tìm kiếm nhị phân
-	- Không đệ qui
+
+- Không đệ qui
  
 VIDEO DEMO https://drive.google.com/file/d/1_HW1vvfugvZEGGqx9jR8fabg9ja7N9ZK/view?usp=sharing   
  
